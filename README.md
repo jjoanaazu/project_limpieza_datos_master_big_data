@@ -4,16 +4,22 @@
 - LinkedIn: https://www.linkedin.com/in/joaqu%C3%ADn-joana-azuara-92911a21b/
 - Fuente: Kaggle https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
 
+
 Contexto
 No hay ninguna duda de que a los hoteles no les interesa que se cancelen reservar de habitaciones por motivos económicos (tanto desde el punto de vista de los beneficios como de los costes fijos (CF) y variables (CV)). Por ello, considero que sería de gran interés que las cadenas hoteleras puedan predecir con un relevante nivel de seguridad, si un cliente puede llegar a cancelar una reserva según las características de este.
 
+
 Algunos de los intereses que tienen los hoteles en todo esto son:
+
 
 Maximizar la ocupación: si el hotel es capaz de predecir con precisión cuántos clientes van a cancelar la reserva, puede ajustar su estrategia de precios para así maximizar la ocupación y minimizar las habitaciones vacías. Incluso dentro de esta misma estrategia, se pueden establecer precios dependiendo del margen de cancelación que se deje (por ejemplo, no tendría el mismo precio una habitación que deja un margen de cancelacion de la reserva de una semana que de otra que deja un mes. Serían más caras y más baratas respectivamente).
 
+
 Reducción de los costes: si por ejemplo, el hotel ofrece una gran variedad de servicios y la ocupación rondara un 70%, podría minimizar costes variables (CV) pudiendo prescindir de algunos servicios...
 
+
 Capacidad de tomar medidas con antelación: Si el modelo es realmente fiable, es decir, que me clasifica correctamente las que sí se cancelan de las que no se cancelan. Si se lograra este grado de fiabilidad, los hoteles serían capaces de hacer contraofertas a aquellos clientes que tienen posibilidades de que cancelen sus reservas. Es importante que el modelo sea fiable, porque si no, podemos estar haciendo ofertas a usuarios que no nos interesa hacérsolo.
+
 
 Variables
 Booking_ID: Identificador único de cada reserva
@@ -36,4 +42,6 @@ avg_price_per_room: Precio medio por día de la reserva; Los precios de las habi
 no_of_special_requests: Número total de solicitudes especiales realizadas por el cliente (por ejemplo, piso alto, vista desde la habitación, etc.)
 booking_status: Bandera que indica si la reserva fue cancelada o no. (VARIABLE OBJETIVO)
 Objetivo
+
+
 El objetivo es ser capaces de precedir si un cliente va a mantener o cancelar la reserva de hotel. Para ello se empleará un modelo de regresión logística (de clasificación).
