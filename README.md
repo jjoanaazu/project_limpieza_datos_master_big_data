@@ -46,4 +46,4 @@ Variables
 Objetivo
 
 
-El objetivo es ser capaces de precedir si un cliente va a mantener o cancelar la reserva de hotel. Para ello se empleará un modelo de regresión logística (de clasificación).
+**El objetivo es ser capaces de precedir si un cliente va a mantener o cancelar la reserva de hotel. Para ello se empleará un modelo de regresión logística (de clasificación).**
