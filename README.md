@@ -1,4 +1,4 @@
-# Proyecto Limpieza de Datoa MSc Big Data Science
+# Proyecto Limpieza de Datos MSc Big Data Science
 ### Trabajo de Preparación y Limpieza de Datos. Predecir si el cliente de un hotel va a cancelar o no una reserva.
 - Joaquín Joana Azuara - Máster Big Data Science - Universidad de Navarra
 - LinkedIn: https://www.linkedin.com/in/joaqu%C3%ADn-joana-azuara-92911a21b/
