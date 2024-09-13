@@ -24,29 +24,25 @@ Capacidad de tomar medidas con antelación: Si el modelo es realmente fiable, es
 Variables
 
 
-Booking_ID: Identificador único de cada reserva
-
-
-no_of_adults: numero de adultos
-
-
-no_of_children: numero de niños
-no_of_weekend_nights: Número de noches de fin de semana (sábado o domingo) en el que el huésped se alojó o reservó para alojarse en el hotel
-no_of_week_nights: Número de noches de semana (de lunes a viernes) que el huésped se alojó o reservó para alojarse en el hotel
-type_of_meal_plan: Tipo de régimen de comidas reservado por el cliente:
-required_car_parking_space: ¿El cliente necesita una plaza de aparcamiento? (0 - No, 1- Sí)
-room_type_reserved: Tipo de habitación reservada por el cliente. Los valores son cifrados (codificados) por INN Hotels.
-lead_time: Número de días entre la fecha de reserva y la fecha de llegada
-arrival_year: Año de llegada
-arrival_month: Mes de llegada
-arrival_date: Día de llegada
-market_segment_type: Designación del segmento de mercado.
-repeated_guest: ¿El cliente es un invitado repetido? (0 - No, 1- Sí)
-no_of_previous_cancellations: Número de reservas anteriores que fueron canceladas por el cliente antes de la reserva actual.
-no_of_previous_bookings_not_canceled: Número de reservas anteriores no canceladas por el cliente antes de la reserva actual
-avg_price_per_room: Precio medio por día de la reserva; Los precios de las habitaciones son dinámicos. (en euros)
-no_of_special_requests: Número total de solicitudes especiales realizadas por el cliente (por ejemplo, piso alto, vista desde la habitación, etc.)
-booking_status: Bandera que indica si la reserva fue cancelada o no. (VARIABLE OBJETIVO)
+- Booking_ID: Identificador único de cada reserva
+- no_of_adults: numero de adultos
+- no_of_children: numero de niños
+- no_of_weekend_nights: Número de noches de fin de semana (sábado o domingo) en el que el huésped se alojó o reservó para - - alojarse en el hotel
+- no_of_week_nights: Número de noches de semana (de lunes a viernes) que el huésped se alojó o reservó para alojarse en el hotel
+- type_of_meal_plan: Tipo de régimen de comidas reservado por el cliente:
+- required_car_parking_space: ¿El cliente necesita una plaza de aparcamiento? (0 - No, 1- Sí)
+- room_type_reserved: Tipo de habitación reservada por el cliente. Los valores son cifrados (codificados) por INN Hotels.
+- lead_time: Número de días entre la fecha de reserva y la fecha de llegada
+- arrival_year: Año de llegada
+- arrival_month: Mes de llegada
+- arrival_date: Día de llegada
+- market_segment_type: Designación del segmento de mercado.
+- repeated_guest: ¿El cliente es un invitado repetido? (0 - No, 1- Sí)
+- no_of_previous_cancellations: Número de reservas anteriores que fueron canceladas por el cliente antes de la reserva actual.
+- no_of_previous_bookings_not_canceled: Número de reservas anteriores no canceladas por el cliente antes de la reserva actual
+- avg_price_per_room: Precio medio por día de la reserva; Los precios de las habitaciones son dinámicos. (en euros)
+- no_of_special_requests: Número total de solicitudes especiales realizadas por el cliente (por ejemplo, piso alto, vista desde la habitación, etc.)
+- booking_status: Bandera que indica si la reserva fue cancelada o no. (VARIABLE OBJETIVO)
 Objetivo
 
 
