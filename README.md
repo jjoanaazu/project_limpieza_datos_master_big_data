@@ -22,8 +22,14 @@ Capacidad de tomar medidas con antelación: Si el modelo es realmente fiable, es
 
 
 Variables
+
+
 Booking_ID: Identificador único de cada reserva
+
+
 no_of_adults: numero de adultos
+
+
 no_of_children: numero de niños
 no_of_weekend_nights: Número de noches de fin de semana (sábado o domingo) en el que el huésped se alojó o reservó para alojarse en el hotel
 no_of_week_nights: Número de noches de semana (de lunes a viernes) que el huésped se alojó o reservó para alojarse en el hotel
