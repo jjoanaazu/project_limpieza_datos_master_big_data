@@ -1,8 +1,8 @@
 # Proyecto Limpieza de Datoa MSc Big Data Science
-Trabajo de Preparación y Limpieza de Datos. Predecir si el cliente de un hotel va a cancelar o no una reserva.
-Joaquín Joana Azuara - Máster Big Data Science - Universidad de Navarra
-LinkedIn: https://www.linkedin.com/in/joaqu%C3%ADn-joana-azuara-92911a21b/
-Fuente: Kaggle https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
+### Trabajo de Preparación y Limpieza de Datos. Predecir si el cliente de un hotel va a cancelar o no una reserva.
+- Joaquín Joana Azuara - Máster Big Data Science - Universidad de Navarra
+- LinkedIn: https://www.linkedin.com/in/joaqu%C3%ADn-joana-azuara-92911a21b/
+- Fuente: Kaggle https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
 
 Contexto
 No hay ninguna duda de que a los hoteles no les interesa que se cancelen reservar de habitaciones por motivos económicos (tanto desde el punto de vista de los beneficios como de los costes fijos (CF) y variables (CV)). Por ello, considero que sería de gran interés que las cadenas hoteleras puedan predecir con un relevante nivel de seguridad, si un cliente puede llegar a cancelar una reserva según las características de este.
